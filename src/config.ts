@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
+  website: "https://it-s-just-a-hunch-but-i-think-he-s.vercel.app/", // replace this with your deployed domain
+  author: "ci i o",
   profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  desc: "It's just a hunch, but I think he’s lying",
+  title: "It's just a hunch",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
